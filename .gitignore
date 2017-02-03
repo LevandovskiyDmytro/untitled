@@ -1,1 +1,16 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/dataSources.local.xml
+.idea/dataSources/6af62b86-bd11-4be4-8c55-dde1e4b40ee0/_src_/
+.idea/dataSources/6af62b86-bd11-4be4-8c55-dde1e4b40ee0/_staging_/
+.idea/dataSources/73255448-641a-4f97-ad55-45a17ab7dbbe/_src_/
+.idea/dataSources/73255448-641a-4f97-ad55-45a17ab7dbbe/_staging_/
+.idea/dataSources/aaaaf625-638c-478f-9ace-da5f18de4b7f/_src_/
+.idea/dataSources/aaaaf625-638c-478f-9ace-da5f18de4b7f/_staging_/
+.idea/workspace.xml
+out/artifacts/untitled_war_exploded/WEB-INF/
+out/artifacts/untitled_war_exploded/css/
+out/artifacts/untitled_war_exploded/resources/
+src/main/java/Parse/
+src/test/
+target/
