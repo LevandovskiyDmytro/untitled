@@ -15,8 +15,8 @@ import java.util.Properties;
 @Service
 public class MailSenderServiceImpl implements MailSenderService{
 
-    private final static String USERNAME = "Alekard200657@gmail.com";
-    private final static String PASSWORD = "Nemezis123";
+    private final static String USERNAME = "****";
+    private final static String PASSWORD = "*****";
 
     @Async
     public void sendMail(String content, String mailBody, String email) {
